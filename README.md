@@ -11,4 +11,7 @@ Hi, I’m Anurag Shende 👋<br><br>I’m a Computer Science graduate and aspiri
 
 ---
 
+<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/557f46ee-53ea-43e9-a4da-cd2d2d36f273" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

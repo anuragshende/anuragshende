@@ -10,6 +10,5 @@ Hi, I’m Anurag Shende 👋<br><br>I’m a Computer Science graduate and aspiri
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuragshende&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anuragshende&icon=7&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
